@@ -9,3 +9,13 @@ header, footer {
   text-align: center;
   padding: 16px;
 }
+.intro {
+  max-width: 600px;
+  margin: 24px auto;
+  padding: 20px;
+  background: #ecf0f1;
+  border-radius: 8px;
+}
+.intro h2 {
+  color: #2c3e50;
+}

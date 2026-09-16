@@ -15,9 +15,6 @@ header, footer {
   padding: 20px;
   background: #ecf0f1;
   border-radius: 8px;
-  /* LOI CO TINH: sua sai */
-  display: none;
-  color: transparent;
 }
 .intro h2 {
   color: #2c3e50;
